@@ -1,3 +1,6 @@
 console.log("hello");
 console.log("123");
 console.log("thang");
+console.log("hello")
+console.log("123");
+console.log("minh");
